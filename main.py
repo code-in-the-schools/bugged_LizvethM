@@ -16,7 +16,7 @@
 # "Tea x 3 : 3.6"
 
 
-listOfOrders = ["Cofee", "Cake", "Tea"]
+listOfOrders = ("Cofee", "Cake", "Tea")
 Price = 0
 
 for i in range(listOfOrders):
